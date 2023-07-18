@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DCSachin
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning AWS And Azure
 
 <!---
 DCSachin/DCSachin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
